@@ -1,0 +1,14 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: red;
+    background-color: rgb(130, 0, 170);
+    text-align: center;
+}
+img{
+    max-width: 45vw;
+    min-width: 45vw;
+    border-radius: 45%;
+    
+}
